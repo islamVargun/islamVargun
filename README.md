@@ -3,12 +3,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/islam-vargun/" target="_blank">
+<p align="left" style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/islam-vargun/" target="blank " style="margin:30px">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇slam vargün" height="50" width="40" />
   </a>
-  <a href="https://x.com/islam_vargun" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" alt="i̇slam vargün" height="50" width="40" />
+  <a href="https://x.com/islam_vargun" target="blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" alt="i̇slam vargün" height="40" width="40" />
   </a>
 </p>
 
