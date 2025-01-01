@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       # Repo'yu kontrol et
@@ -29,13 +29,13 @@ jobs:
       # Build durumunu kontrol et
       - run: git status
 
-      # Değişiklikleri commit ve push yap
-      - name: Commit and Push Changes
-        uses: github-actions-x/commit@v2
+      # Değişiklikleri push et
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
-          message: "Auto-update snake gif and svg"
+          force: true
 
       # GitHub Pages'e deploy et
       - uses: crazy-max/ghaction-github-pages@v2.1.3
