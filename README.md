@@ -6,7 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/islam-vargun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇slam vargün" height="50" width="40" /></a>
-
+</p>
+<p align="right">
 <a href="https://x.com/islam_vargun" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/900px-X_logo.jpg" alt="i̇slam vargün" height="50" width="40" /></a>
 </p>
 
