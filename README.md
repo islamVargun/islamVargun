@@ -14,3 +14,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamvargun&" alt="islamvargun" /></p>
+
+![snake gif](https://github.com/islamVargun/islamVargun/blob/output/github-contribution-grid-snake.gif)
