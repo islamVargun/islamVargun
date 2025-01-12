@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkedin.com/in/islam-vargun/overlay/background-image/)
+
 ![](https://komarev.com/ghpvc/?username=islamVargun&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
