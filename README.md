@@ -9,6 +9,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
 
 
+
 <h3 align="left">&nbsp; A FullStack developer from Türkiye</h3>
 
 
