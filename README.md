@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">&nbsp; A FullStack developer from Türkiye</h3>
+<h3 align="left">&nbsp; A Junior Frontend developer from Türkiye</h3>
 
 
 
