@@ -1,10 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=islamVargun&color=blue)
-<div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+İslam+Vargün+%e2%9c%a8;%f0%9f%93%9a+FullStack+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
 
@@ -15,15 +11,6 @@
 <h1 align="center">Hi 👋, I'm islam</h1>
 <h3 align="center">A Junior Frontend Stack Developer</h3>
 
-- Food Site [firstwebproject](https://github.com/islamVargun/firstwebproject)
-
-- MyPortfolioSite [https://github.com/islamVargun/MyPortfolioSite](https://github.com/islamVargun/MyPortfolioSite)
-
-- ReactMovieFilter [https://github.com/islamVargun/ReactMovieFilter](https://github.com/islamVargun/ReactMovieFilter)
-
-- 👨‍💻 All of my projects are available at [https://www.islamvargun.com.tr/](https://www.islamvargun.com.tr/)
-
-- 💬 Ask me about **React,Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +26,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamvargun&" alt="islamvargun" /></p>
 
+- Food Site [firstwebproject](https://github.com/islamVargun/firstwebproject)
+
+- MyPortfolioSite [https://github.com/islamVargun/MyPortfolioSite](https://github.com/islamVargun/MyPortfolioSite)
+
+- ReactMovieFilter [https://github.com/islamVargun/ReactMovieFilter](https://github.com/islamVargun/ReactMovieFilter)
+
+- 👨‍💻 All of my projects are available at [https://www.islamvargun.com.tr/](https://www.islamvargun.com.tr/)
+
+- 💬 Ask me about **React,Javascript**
 
 
 
